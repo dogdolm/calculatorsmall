@@ -1,2 +1,2 @@
 # calculatorsmall
-Open start
+Open main.exe
